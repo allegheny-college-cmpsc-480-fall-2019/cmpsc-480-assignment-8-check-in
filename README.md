@@ -10,7 +10,7 @@ To continue working on your web site or code projects, providing an in-progress 
 
 * To revisit design or content decisions you've made
 * To provide a working draft to assess the areas where you still need assistance or resources
-* To conduct a \test run" of your site, showing it to others
+* To conduct a "test run" of your site, showing it to others
 * To share a working copy of your code project for brief instructor review
 
 ## Helpful links
